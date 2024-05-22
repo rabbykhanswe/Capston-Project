@@ -1,0 +1,14 @@
+
+
+		Sat May 18 23:19:03 2024
+
+		Medicine Name : Napa
+		Medicine Quantity : 30 Pcs
+		Total Napa Price : 360.00 Taka
+
+		Medicine Name : Seclo
+		Medicine Quantity : 44 Pcs
+		Total Seclo Price : 352.00 Taka
+
+
+		Total Price : 712.00 Taka

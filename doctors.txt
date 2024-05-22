@@ -1,0 +1,4 @@
+Shamim_Reza	Arthopedic	Savar	12131415
+Arif_Hossen	Gynologist	Rajshahi	141516
+Sadek_Musabbir	Urologist	Dhaka	171819
+Junayet_Mithu	Heartologist	Dhaka	151849

@@ -1,0 +1,5 @@
+Square_Hospital_Ltd	Dhaka	88254632
+Habib_Hospital	Savar	2554531
+Rose_Clinic	Savar	54854634
+Enam_Medical_College	Savar	5246845
+BSMCH	Dhaka	2534633

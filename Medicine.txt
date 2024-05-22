@@ -1,0 +1,2 @@
+Napa		Paracitamal		12.00		200
+Seclo		Esomiprazol		8.00		500
