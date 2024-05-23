@@ -80,7 +80,7 @@ void homepage()
 			system("CLS");
 			medi_design();
 			printf("\n\t[1] Search Medicin");
-			printf("\n\t[2] Add Medicine");
+			printf("\n\t[2] Add Medicine\n");
 			//printf("\n\t[3] Delete Medicine\n");
 
 			printf("\n\tEnter Your Choice : ");
