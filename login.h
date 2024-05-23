@@ -74,6 +74,7 @@ void registers(){
         scanf("%s", users[num_users].username);
 
         printf("\n\tEnter Your Password 	: ");
+        int i = 0;
         while((ch = getch()) != 13)
         {
         	password1[i] = ch;
@@ -81,7 +82,7 @@ void registers(){
         	i++;
 		}
 
-        code[i] = '\0'; // Null-terminate the password string
+        password1[i] = '\0'; // Null-terminate the password string
 
         strcpy(users[num_users].password, password1);
 
